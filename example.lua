@@ -1,4 +1,4 @@
-local Library = loadstring(game:HttpGet("https://pastefy.app/mHQpCo1e/raw", true))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/nqxo62yV2/Redz-HubV5-UI/refs/heads/main/main.lua", true))()
 
 local Window = Library:MakeWindow({
     Title = "Vantablack X Hub Library",
